@@ -6,3 +6,7 @@ data/
 rollouts/
 
 *.zip
+
+activate
+.ipynb_checkpoints/
+
